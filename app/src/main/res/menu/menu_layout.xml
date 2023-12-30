@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bookmark_menu"
+        android:icon="@drawable/ic_bookmark_unselected"
+        android:title="@string/bookmark"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/searchByGenre_menu"
+        android:icon="?attr/searchIcon"
+        android:title="@string/search_by_genre"
+        app:showAsAction="ifRoom" />
+</menu>

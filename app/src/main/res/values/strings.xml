@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies &amp; TV</string>
+    <string name="version">v0.2.0_Beta-FinalBuild_123023–2352</string>
+    <string name="movies">Movies</string>
+    <string name="tv">TV Shows</string>
+    <string name="search_by_genre">Search Movies by Genre</string>
+    <string name="select_genre">Select genre</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmarked">Bookmarked!</string>
+    <string name="un_bookmarked">Bookmark removed</string>
+    <string name="img">An image</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="reviews">Reviews</string>
+    <string name="detail_header">Detailed Info</string>
+</resources>
